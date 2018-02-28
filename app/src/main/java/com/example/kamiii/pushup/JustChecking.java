@@ -6,6 +6,6 @@ package com.example.kamiii.pushup;
 
 public class JustChecking {
     //Some Changes
-    int z=5;
-    int x=z-2;
+    int z=8;
+    int x=z-600;
 }
