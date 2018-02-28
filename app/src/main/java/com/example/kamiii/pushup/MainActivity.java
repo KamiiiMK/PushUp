@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
     }
     private void TestMethod()
     {
-        Toast.makeText(this, "Worked ???", Toast.LENGTH_SHORT).show();
+  int i=1+1;
     }
 }
