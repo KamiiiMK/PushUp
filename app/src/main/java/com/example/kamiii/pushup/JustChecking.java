@@ -6,6 +6,7 @@ package com.example.kamiii.pushup;
 
 public class JustChecking {
     //Some Changes
-    int z=8;
-    int x=z-600;
+    int z=89/9;
+    int x=z*900;
+    String test="Creating pull Request";
 }
