@@ -5,4 +5,6 @@ package com.example.kamiii.pushup;
  */
 
 public class JustChecking {
+    //Some Changes
+    int z=0;
 }
